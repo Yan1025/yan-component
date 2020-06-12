@@ -6,7 +6,8 @@
 	<modules>
 		<module>distributed-bloomfilter</module>
 		<module>cache-guard</module>
-	</modules>
+        <module>service-router</module>
+    </modules>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

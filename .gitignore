@@ -1,6 +1,10 @@
 /HELP.md
 /mvnw
 /mvnw.cmd
-/yan-component.iml
+*.iml
 /.idea/
 /distributed-bloomfilter/distributed-bloomfilter.iml
+/target/
+/cache-guard/target/
+/cache-guard/cache-guard.iml
+/*/target/
